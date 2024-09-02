@@ -10,5 +10,5 @@ A square test-pattern generator produces a screen as follows:
 Design the new circuit, replace the bar test-pattern generator in the basic video controller demo and verify its operation.
 
 ## New/Modified Files
-- [square_pattern.sv](https://github.com/Spring-2024-Classes/lab-12-square-test-pattern-generator-group-34/blob/HDL/square_pattern.sv)
-- [vga_top.sv](https://github.com/Spring-2024-Classes/lab-12-square-test-pattern-generator-group-34/blob/HDL/vga_top.sv)
+- [square_pattern.sv](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%2012%20-%20Square%20Test%20Pattern%20Generator/HDL%20Files/square_pattern.sv)
+- [vga_top.sv](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%2012%20-%20Square%20Test%20Pattern%20Generator/HDL%20Files/vga_top.sv)
