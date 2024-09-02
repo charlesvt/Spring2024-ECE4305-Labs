@@ -4,7 +4,7 @@ A rainbow-like spectrum is shown in the figure below. The spectrum can be genera
 varying the intensity of the red, green, and blue inputs of the tricolor LEDs. A rainbow light uses
 the potentiometer and XADC core as the input to specify the desired color on a tricolor LED.
 
-![image](https://github.com/Spring-2024-Classes/lab-9-spectrum-display-group-34/assets/72955794/207a89bc-cba4-4740-8084-0cd261a169da)
+![image](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%209%20-%20Spectrum%20Display/spectrum.png)
 
 Derive the program and verify its operation.
 The x axis shows the voltage value as read by the XADC core, you should display this value on
