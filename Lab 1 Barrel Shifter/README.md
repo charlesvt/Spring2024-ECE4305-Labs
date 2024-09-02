@@ -5,7 +5,7 @@ Rotational Barrel Shifters parameterized with *N* representing the amount of bit
 [param_left_shifter](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20Barrel%20Shifter/Source%20Files/param_left_shifter.sv)
 
 Test benches for the parameterized right and left barrel shifters respectively\
-[param_right_shifter_tb](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20Barrel%20Shifter/Simulation%20Files/param_right_shifter_tb.sv))\
+[param_right_shifter_tb](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20Barrel%20Shifter/Simulation%20Files/param_right_shifter_tb.sv)\
 [param_left_shifter_tb](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20Barrel%20Shifter/Simulation%20Files/param_left_shifter_tb.sv)
 
 ## Multi-Function Barrel Shifter
