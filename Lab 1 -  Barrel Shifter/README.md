@@ -13,7 +13,7 @@ Multi-function barrel shifter using a right shifter, left shifter, and an *N*-bi
 [multi_barrel_shifter_mux](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20-%20%20Barrel%20Shifter/Source%20Files/multi_barrel_shifter_mux.sv)
 
 Multi-function barrel shifter using a single right shifter with pre-reverser and post-reverser modules.\
-[multi_barrel_shifter_reverser](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20-%20%20Barrel%20Shifter/Source%20Files/multi_barrel_shifter_reverser.sv\
+[multi_barrel_shifter_reverser](https://github.com/charlesvt/Spring2024-ECE4305-Labs/blob/main/Lab%201%20-%20%20Barrel%20Shifter/Source%20Files/multi_barrel_shifter_reverser.sv)\
 The following schematic was referenced for the multi_barrel_shifter_reverser module:\
 ![image](https://1.bp.blogspot.com/-WXk9YeOcVsk/V4myOmg3K3I/AAAAAAAABTI/Jat_0BKynv80BMy904cUwsbaMY8Np4WtACLcB/s1600/multifunction-barrel-shifter-reverse-bit.PNG)\
 Schematic was obtained from this [site](https://embeddedsystemengineering.blogspot.com/2016/07/verilog-tutorial-1-modelsim.html?showComment=1636697692523).
